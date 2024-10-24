@@ -53,5 +53,4 @@ const Header = ({ cartCount }) => {
     </header>
   );
 };
-
 export default Header;
